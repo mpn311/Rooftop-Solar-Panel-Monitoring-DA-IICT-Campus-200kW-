@@ -18,7 +18,7 @@ This project focuses on using this data to **maximize solar efficiency** through
 
 ## 🎯 Objectives
 
-Students working on this project will:
+working on this project will:
 
 ### 1. 📈 Track Efficiency Trends
 - Ingest and clean sensor data.

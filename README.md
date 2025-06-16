@@ -23,6 +23,7 @@ working on this project will:
 ### 1. 📈 Track Efficiency Trends
 - Ingest and clean sensor data.
 - Monitor power output for different panel clusters over time.
+- ![image005](https://github.com/user-attachments/assets/0c578650-7731-413c-8c34-156e231a4b76)
 
 ### 2. 🌤️ Analyze Environmental Factors
 - Study how irradiance, temperature, and weather affect panel performance.
@@ -69,5 +70,6 @@ This project supports:
 - **Energy-saving through real-time alerts**
 
 ---
+
 
 

@@ -1,9 +1,6 @@
 
 # Kalman Filter Photovoltaic Power Prediction Model 
 
-यह डॉक्यूमेंट Kalman Filter आधारित PV (Photovoltaic) Power Prediction Model को स्टेप-बाय-स्टेप हिंदी में समझाता है। इसमें चार प्रमुख चरण शामिल हैं:
-
-
 ## ✅ STEP 1: Hourly Forecast of Solar Irradiance
 
 **उद्देश्य:** हर घंटे में Solar Panel पर कितनी धूप (irradiance) पड़ती है, यह पता करना।

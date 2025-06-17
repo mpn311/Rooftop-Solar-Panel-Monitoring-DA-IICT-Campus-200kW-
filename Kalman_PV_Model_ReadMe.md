@@ -1,7 +1,7 @@
 
 # Kalman Filter Photovoltaic Power Prediction Model (Explained in Hindi-English)
 
-यह डॉक्यूमेंट Kalman Filter आधारित PV (Photovoltaic) Power Prediction Model को स्टेप-बाय-स्टेप हिंदी में (अंग्रेज़ी शब्दों के साथ) समझाता है। इसमें चार प्रमुख चरण शामिल हैं:
+यह डॉक्यूमेंट Kalman Filter आधारित PV (Photovoltaic) Power Prediction Model को स्टेप-बाय-स्टेप हिंदी में समझाता है। इसमें चार प्रमुख चरण शामिल हैं:
 
 
 ## ✅ STEP 1: Hourly Forecast of Solar Irradiance
